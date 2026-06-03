@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я cakkac1dev 👋</h1>
+<h1 align="center">Привет👋</h1>
 
 <p align="center">
   Делаю full-stack пет-проекты: веб, Telegram-боты и мобильные приложения.<br>

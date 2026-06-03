@@ -29,6 +29,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cakkac1dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakkac1dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160">
+  <img src="https://komarev.com/ghpvc/?username=cakkac1dev&style=for-the-badge&color=7aa2f7&labelColor=1a1b27&label=PROFILE+VIEWS" alt="Profile views">
+  <a href="https://github.com/cakkac1dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/cakkac1dev?style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b27&label=FOLLOWERS" alt="Followers">
+  </a>
+  <a href="https://github.com/cakkac1dev?tab=repositories">
+    <img src="https://img.shields.io/badge/PROJECTS-3-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Projects">
+  </a>
 </p>

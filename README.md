@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=620&lines=Делаю+full-stack+пет-проекты;Backend+на+Python+%E2%80%A2+фронт+без+фреймворков;Telegram-боты+%E2%80%A2+веб+%E2%80%A2+мобайл+%E2%80%A2+десктоп" alt="typing" />
+  <b>Full-stack пет-проекты</b> &nbsp;·&nbsp; Python · JavaScript &nbsp;·&nbsp; боты · веб · мобайл · десктоп
 </p>
 
 ---
@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cakkac1dev&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=cakkac1dev&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="streak" />
 </p>
 
 ---
